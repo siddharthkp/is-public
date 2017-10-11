@@ -1,0 +1,19 @@
+{
+  "name": "is-public",
+  "version": "1.0.0",
+  "description": "Check if a repo is public",
+  "main": "index.js",
+  "bin": "cli.js",
+  "scripts": {
+    "test": "ava -v"
+  },
+  "keywords": [],
+  "author": "siddharthkp",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.16.2"
+  },
+  "devDependencies": {
+    "ava": "0.20.0"
+  }
+}
