@@ -37,7 +37,7 @@ const isPublic = require('is-public')
 isPublic('siddharthkp/bundlesize')
   .then(public => console.log(public))
   .catch(error => console.log(error))
-}
+
 ```
 
 &nbsp;
