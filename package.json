@@ -11,7 +11,8 @@
   "author": "siddharthkp",
   "license": "MIT",
   "dependencies": {
-    "axios": "0.16.2"
+    "axios": "0.16.2",
+    "prettycli": "1.4.3"
   },
   "devDependencies": {
     "ava": "0.20.0"
